@@ -9,3 +9,4 @@
 #
 ```
 # a02-TWRP-11-dt
+bootloop sadly
